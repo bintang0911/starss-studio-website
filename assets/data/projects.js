@@ -7,6 +7,8 @@ window.STARSS.projects = [
     title: "Ultimate Capitalism Indonesia",
     category: "game",
     description: "A business and economic simulation game where players build, manage, and expand their own business empire. Make strategic decisions, manage finances, and grow your wealth in an evolving economic world.",
+    image: "assets/images/projects/uic-cover.webp",
+    imageAlt: "Ultimate Capitalism Indonesia key art: a businessman facing a city skyline with the Monas tower and the Indonesian flag, with stacks of gold coins",
     version: "2.0.0",
     status: "Released",
     officialUrl: "https://github.com/bintang0911/ultimate-capitalism-indonesia",

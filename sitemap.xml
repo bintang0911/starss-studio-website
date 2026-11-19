@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Replace bintang0911 / starss-studio-website (or your custom domain) in every <loc> — see README.md -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://bintang0911.github.io/starss-studio-website/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://bintang0911.github.io/starss-studio-website/about.html</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://bintang0911.github.io/starss-studio-website/philosophy.html</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://bintang0911.github.io/starss-studio-website/projects.html</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://bintang0911.github.io/starss-studio-website/development.html</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://bintang0911.github.io/starss-studio-website/news.html</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://bintang0911.github.io/starss-studio-website/showcase.html</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://bintang0911.github.io/starss-studio-website/identity.html</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://bintang0911.github.io/starss-studio-website/contact.html</loc>
+    <priority>0.7</priority>
+  </url>
+</urlset>

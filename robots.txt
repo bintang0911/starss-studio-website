@@ -1,0 +1,5 @@
+# Replace the sitemap address below with your real website address (see README.md)
+User-agent: *
+Allow: /
+
+Sitemap: https://bintang0911.github.io/starss-studio-website/sitemap.xml

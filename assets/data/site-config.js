@@ -13,10 +13,10 @@
 window.STARSS = window.STARSS || {};
 window.STARSS.config = {
   contact: {
-    email: "" // e.g. "hello@your-domain.com"  (leave empty until it exists)
+        email: "bi214710@gmail.com"
   },
   links: [
-    // { label: "GitHub",    url: "https://github.com/your-username" },
+     { label: "GitHub",    url: "https://github.com/bintang0911" },
     // { label: "YouTube",   url: "https://youtube.com/@your-channel" },
   ]
 };
